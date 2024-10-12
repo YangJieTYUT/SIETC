@@ -7,7 +7,7 @@ We implemented our experiment on the computer system of Taiyuan University of Te
 i5-6500H CPU, 64bit operating system, 8GB RAM, 512G SSD, and MATLAB R2016b.
 ## Usage
 - Add the project and its subfolders to the Matlab running path
-- run the main.m
+- Run the main.m
 ## dataset
 The used datasets are openly available from https://sipi.usc.edu/database/database.php?volume=sequences
 ## Note
